@@ -498,5 +498,5 @@ module.exports = {
   fromJSON,
   group,
   sortCitiesArray,
-  cssSelector
-}
+  cssSelectorBuilder,
+};
